@@ -24,7 +24,7 @@ streamlit run main.py
 ![image](https://github.com/XXX/main/images/XXX.png)
 
 ## UI
-![image](https://github.com/YenYu-Tung/BDS_final_project/main/images/UI.png)
+![image](https://github.com/YenYu-Tung/BDS_final_project/blob/main/images/UI.png)
 
 ## Introduction
 Embark on an exciting journey of vocabulary exploration with "Hangman Game" a captivating and interactive game designed to enhance your English language skills. This innovative game combines the thrill of a classic word-guessing challenge with the power of artificial intelligence, making learning enjoyable and effective. 
