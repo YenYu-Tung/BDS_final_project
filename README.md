@@ -1,7 +1,5 @@
 # Big Data System Final Project - Hangman Game
-## Group 24
-
-## Group Members
+## Group 24 - Members
 鄭鴻鈞 (b09902134)、白哲銘 (b09902076)、童嬿瑜 (b09902031)、沈建宇
 (b09902112)、許洸誠 (r11922139)
 
@@ -26,7 +24,7 @@ streamlit run main.py
 ![image](https://github.com/XXX/main/images/XXX.png)
 
 ## UI
-![image](https://github.com/XXX/main/images/XXX.png)
+![image](https://github.com/YenYu-Tung/BDS_final_project/main/images/UI.png)
 
 ## Introduction
 Embark on an exciting journey of vocabulary exploration with "Hangman Game" a captivating and interactive game designed to enhance your English language skills. This innovative game combines the thrill of a classic word-guessing challenge with the power of artificial intelligence, making learning enjoyable and effective. 
