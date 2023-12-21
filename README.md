@@ -3,6 +3,14 @@
 鄭鴻鈞 (b09902134)、白哲銘 (b09902076)、童嬿瑜 (b09902031)、沈建宇
 (b09902112)、許洸誠 (r11922139)
 
+- Environment
+compatible with any environment where Python code can be executed
+
+- Requirements
+1. openai==0.28.0
+2. python-dotenv
+3. streamlit
+
 ## Getting started
 1. Create the .env file
 ``` 
@@ -13,7 +21,8 @@ API_KEY="Your OpenAI API key"
 ```bash
 pip install -r requirements.txt
 ```
-## Usage
+
+## Start the APP
 1. 
 ```bash
 streamlit run main.py
