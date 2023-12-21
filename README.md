@@ -3,10 +3,10 @@
 鄭鴻鈞 (b09902134)、白哲銘 (b09902076)、童嬿瑜 (b09902031)、沈建宇
 (b09902112)、許洸誠 (r11922139)
 
-- Environment
+### Environment
 compatible with any environment where Python code can be executed
 
-- Requirements
+### Requirements
 1. openai==0.28.0
 2. python-dotenv
 3. streamlit
