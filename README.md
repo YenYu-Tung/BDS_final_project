@@ -30,7 +30,7 @@ streamlit run main.py
 2. Visit http://localhost:8501/ to see the app in action. 
 
 ## FlowChart
-![image](https://github.com/YenYu-Tung/BDS_final_project/blob/main/images/flowChart.png)
+![image](https://github.com/YenYu-Tung/BDS_final_project/blob/main/images/flowChart.jpg)
 
 ## UI
 ![image](https://github.com/YenYu-Tung/BDS_final_project/blob/main/images/UI.png)
